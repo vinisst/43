@@ -11,6 +11,16 @@ header{
     opacity: 80%;
 }
 
-div {
 
+nav ul li{
+
+    float: left;
+}
+
+nav ul li a:link {
+display: block;
+text-transform: uppercase;
+margin-right:30px ;
+padding-bottom: 3px;
+text-decoration: none;
 }
