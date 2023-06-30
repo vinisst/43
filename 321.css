@@ -1,20 +1,24 @@
 body{
-    background-image:url(7.jpg);
+    background-image:url(5.jpg);
    
     color: aliceblue;
    
 }
 
+#um {
+
+    float: left;
+}
 
 header{
-    background-image: url(5.jpg);
-    opacity: 80%;
+    background-image: url(7.jpg);
+    opacity: 70%;
 }
 
 
 nav ul li{
-
-    float: left;
+    color: aliceblue;
+    float: right;
 }
 
 nav ul li a:link {
